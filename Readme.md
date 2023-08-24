@@ -5,4 +5,4 @@ TIC18**.
 
 ## Objetivo
 Conhecer os comandos básicos e algumas recomendações
-para o uso do Git e do Github.
+para o uso do Git e do Github...
